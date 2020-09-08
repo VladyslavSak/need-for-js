@@ -1,0 +1,9 @@
+.hide {
+    display: none;
+}
+
+.game__car {
+    width: 50px;
+    height: 100px;
+    background: url('./image/player.png') no-repeat center / contain;
+}
